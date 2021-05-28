@@ -24,7 +24,7 @@ conda activate myenv
 ```
 Then goto the official github [here](https://github.com/apple/tensorflow_macos)
 
-Please copy the following command from the official website and remove the '$' mark ahead if the command is copied from the official site.
+Please copy the following command from the official website and remove the '%' mark ahead if the command is copied from the official site.
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/apple/tensorflow_macos/master/scripts/download_and_install.sh)"
